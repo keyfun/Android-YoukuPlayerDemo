@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/mAppTracker.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc27ccbcf41dbd863a7e09dd3dcdf2173fd27995">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/mAppTracker_8fbcd2254ba4ea6f5f3194b05123c5db708ec6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f136ba13caddef4d5c977dea2dca27969cdf24b">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/android-support-v4_58ce311bbc4b92adfa93a098f138a33e28e2049e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/playerBase.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="769a57747294fd5c50d2ff09909d6a48c9bcf16b">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/playerBase_84bd63b1ae9808036542ad6db228e1de5272b8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/mvvtracker.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2893070e89a7739760094e0b503df2c9f679f425">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/mvvtracker_9ff20b89eb206c273591bb7c388a2ed607cd95c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/baseproject.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb001166ba9ede6279c4798149cebb1cc21c9fef">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/baseproject_16c012bd302558120a8e22c1c2bbcc130d5cea5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/YoukuAnalytics.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04139c32ad31f606489de024be0e60e9fcb3fca3">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/YoukuAnalytics_3b2d7e85c419311b7720b73ae9113cd8da5cf6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/fastjson-1.2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="627a5d87d8434269d3f427b304f6d18866400a2c">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/fastjson-1.2.7_5d0736ecb5ce390a923e8f249d13fa51da4fde08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6c719822daa025202c84e27eb933b313d3cb7704">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/httpclient-4.4.1.2_1edae91edb8ea2f81972eefe7f369c2fa2cbb4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_cfaba2c15b478549d3ed95b87dcb183ee8e3adef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/libs/mma_sdk_v1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f88e6c3bf7f322a6a600915bd42086f427811e7">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/mma_sdk_v1.3.2_d03082d74b83d817ebed455ca185d13e73e117d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/exploded-aar/YoukuPlayerOpenSDK_android_Lite_Version/YoukuPlayerOpenSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de3a65cb9983fb5bdd15a02a4b67273a4c241939">
+        <dex dex="/Users/key_hui/Downloads/YoukuPlayerOpenSDK_android_Lite_Version/PlayerDemo_lite/build/intermediates/pre-dexed/debug/YoukuPlayerOpenSDK_android_Lite_Version-YoukuPlayerOpenSDK-unspecified_c92b72c18a2cac30ca421387e5ffdc5328a1c164.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+include ':PlayerDemo_lite'
+include ':YoukuPlayerOpenSDK'
